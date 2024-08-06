@@ -24,3 +24,16 @@ C:\Users\donov\Documents\PersonalProjects\adventureGame\SuperAdventure\obj\Debug
 C:\Users\donov\Documents\PersonalProjects\adventureGame\SuperAdventure\obj\Debug\SuperAdv.5A2A7CD7.Up2Date
 C:\Users\donov\Documents\PersonalProjects\adventureGame\SuperAdventure\obj\Debug\SuperAdventure.exe
 C:\Users\donov\Documents\PersonalProjects\adventureGame\SuperAdventure\obj\Debug\SuperAdventure.pdb
+C:\Users\donov\Documents\AdventureGame\adventureGame\adventureGame\SuperAdventure\bin\Debug\SuperAdventure.exe.config
+C:\Users\donov\Documents\AdventureGame\adventureGame\adventureGame\SuperAdventure\bin\Debug\SuperAdventure.exe
+C:\Users\donov\Documents\AdventureGame\adventureGame\adventureGame\SuperAdventure\bin\Debug\SuperAdventure.pdb
+C:\Users\donov\Documents\AdventureGame\adventureGame\adventureGame\SuperAdventure\bin\Debug\Engine1.dll
+C:\Users\donov\Documents\AdventureGame\adventureGame\adventureGame\SuperAdventure\bin\Debug\Engine1.pdb
+C:\Users\donov\Documents\AdventureGame\adventureGame\adventureGame\SuperAdventure\obj\Debug\SuperAdventure.csproj.AssemblyReference.cache
+C:\Users\donov\Documents\AdventureGame\adventureGame\adventureGame\SuperAdventure\obj\Debug\SuperAdventure.Properties.Resources.resources
+C:\Users\donov\Documents\AdventureGame\adventureGame\adventureGame\SuperAdventure\obj\Debug\SuperAdventure.SuperAdventure.resources
+C:\Users\donov\Documents\AdventureGame\adventureGame\adventureGame\SuperAdventure\obj\Debug\SuperAdventure.csproj.GenerateResource.cache
+C:\Users\donov\Documents\AdventureGame\adventureGame\adventureGame\SuperAdventure\obj\Debug\SuperAdventure.csproj.CoreCompileInputs.cache
+C:\Users\donov\Documents\AdventureGame\adventureGame\adventureGame\SuperAdventure\obj\Debug\SuperAdv.5A2A7CD7.Up2Date
+C:\Users\donov\Documents\AdventureGame\adventureGame\adventureGame\SuperAdventure\obj\Debug\SuperAdventure.exe
+C:\Users\donov\Documents\AdventureGame\adventureGame\adventureGame\SuperAdventure\obj\Debug\SuperAdventure.pdb
