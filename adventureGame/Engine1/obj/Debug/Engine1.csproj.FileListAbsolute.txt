@@ -1,0 +1,6 @@
+C:\Users\donov\Documents\C#\Engine1\bin\Debug\Engine1.dll
+C:\Users\donov\Documents\C#\Engine1\bin\Debug\Engine1.pdb
+C:\Users\donov\Documents\C#\Engine1\obj\Debug\Engine1.csproj.AssemblyReference.cache
+C:\Users\donov\Documents\C#\Engine1\obj\Debug\Engine1.csproj.CoreCompileInputs.cache
+C:\Users\donov\Documents\C#\Engine1\obj\Debug\Engine1.dll
+C:\Users\donov\Documents\C#\Engine1\obj\Debug\Engine1.pdb
